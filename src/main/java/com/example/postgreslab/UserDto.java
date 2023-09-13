@@ -1,6 +1,7 @@
-package com.example.postgreslab.Postgres.dto;
+package com.example.postgreslab.Postgres;
 
 public class UserDto {
+
     private String name;
 
     private String email;

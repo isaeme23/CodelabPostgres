@@ -1,6 +1,4 @@
-package com.example.postgreslab.Postgres.entity;
-
-import com.example.postgreslab.Postgres.dto.UserDto;
+package com.example.postgreslab.Postgres;
 
 import javax.persistence.*;
 

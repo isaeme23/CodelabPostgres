@@ -1,6 +1,5 @@
-package com.example.postgreslab.Postgres.repository;
+package com.example.postgreslab.Postgres;
 
-import com.example.postgreslab.Postgres.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

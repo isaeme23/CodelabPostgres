@@ -1,4 +1,4 @@
-package com.example.postgreslab.Postgres.exception;
+package com.example.postgreslab.Postgres;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

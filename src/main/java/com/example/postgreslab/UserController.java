@@ -1,9 +1,5 @@
-package com.example.postgreslab.Postgres.controller;
+package com.example.postgreslab.Postgres;
 
-import com.example.postgreslab.Postgres.dto.UserDto;
-import com.example.postgreslab.Postgres.entity.User;
-import com.example.postgreslab.Postgres.exception.UserNotFoundException;
-import com.example.postgreslab.Postgres.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
